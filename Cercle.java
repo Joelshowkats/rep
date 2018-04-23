@@ -55,9 +55,9 @@ public class Cercle {
 	
 	public static void main(String[] args) 
 	{
-		Cercle c1 = New Cercle(12,15);
-		Cercle c2 = New Cercle(13,14);
-		Cercle c3 = New Cercle(12,11);
+		Cercle c1 = new Cercle(12,15);
+		Cercle c2 = new Cercle(13,14);
+		Cercle c3 = new Cercle(12,11);
 		
 	}
 }
