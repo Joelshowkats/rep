@@ -52,4 +52,12 @@ public class Cercle {
 	{
 		return x.equals(c.getX()) && y.equals(c.getY());
 	}
+	
+	public static void main(String[] args) 
+	{
+		Cercle c1 = New Cercle(12,15);
+		Cercle c2 = New Cercle(13,14);
+		Cercle c3 = New Cercle(12,11);
+		
+	}
 }
